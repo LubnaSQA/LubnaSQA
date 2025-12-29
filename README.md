@@ -3,10 +3,6 @@
 I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting and real-world QA workflows**.  
 I currently work as a **remote freelance tester with Test IO for more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
 
-I have a strong foundation in **software testing principles**, including test case design, test planning, regression testing, and detailed bug reporting. I’m comfortable working with **Jira**, along with test management tools like **Zephyr and Xray**, and I enjoy exploratory testing that simulates real user behavior.
-
-Before transitioning into software testing, I worked in healthcare as a **Doctor of Physical Therapy**, which strengthened my analytical thinking, attention to detail, and problem-solving skills — qualities I now apply daily in QA.
-
 ### 🔍 What I’m focusing on
 - Manual & exploratory testing for web and mobile applications  
 - Writing clear, structured **test cases, test plans, and bug reports**  
