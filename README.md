@@ -1,7 +1,6 @@
 ## Hi, I’m Lubna Khan 👋
 
-I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting and real-world QA workflows**.  
-I currently work as a **remote freelance tester with Test IO for more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
+I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting and real-world QA workflows**. I currently work as a **remote freelance tester with Test IO for more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
 
 ### 🔍 What I’m focusing on
 - Manual & exploratory testing for web and mobile applications  
