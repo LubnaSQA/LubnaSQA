@@ -1,4 +1,35 @@
-## Hi there 👋
+## Hi, I’m Lubna Khan 👋
+
+I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting and real-world QA workflows**.  
+I currently work as a **remote freelance tester with Test IO for more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
+
+I have a strong foundation in **software testing principles**, including test case design, test planning, regression testing, and detailed bug reporting. I’m comfortable working with **Jira**, along with test management tools like **Zephyr and Xray**, and I enjoy exploratory testing that simulates real user behavior.
+
+Before transitioning into software testing, I worked in healthcare as a **Doctor of Physical Therapy**, which strengthened my analytical thinking, attention to detail, and problem-solving skills — qualities I now apply daily in QA.
+
+### 🔍 What I’m focusing on
+- Manual & exploratory testing for web and mobile applications  
+- Writing clear, structured **test cases, test plans, and bug reports**  
+- Building a strong **QA portfolio** for remote opportunities  
+- Continuously improving my testing skills and tool knowledge  
+
+### 🛠 Tools & Skills
+- Manual Testing · Exploratory Testing · Regression Testing  
+- Test Case Design · Bug Reporting & Documentation  
+- Jira · Zephyr · Xray  
+- Basics of HTML & CSS  
+- Remote collaboration & communication  
+  
+### 🌍 Highlights
+- Speaker at **Test IO Newbie Testing Tournament 2025 (Live Conference)**  
+- Participant in **Test IO Testing Cup 2025**  
+- Experience testing cross-platform applications as a remote freelancer  
+
+### How to Reach Me
+- Email: lubnakhanwork@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/lubna-khan-sqa
+  
+📌 I’m currently **open to entry-level / junior remote QA roles** and excited to contribute to quality-driven teams.
 
 <!--
 **LubnaSQA/LubnaSQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
