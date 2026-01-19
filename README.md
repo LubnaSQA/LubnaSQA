@@ -1,8 +1,9 @@
 ## Hi, I’m Lubna Khan!
 
-I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting and real-world QA workflows**. I currently work as a **remote freelance tester with Test IO for more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
+I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting and real-world QA workflows**. I currently work as a **QA Project Cordinator at Fusion Systems and Services Inc. remotely**. Also, I am a **remote freelance tester at Test IO for more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
 
 ###  What I’m focusing on
+- Project Mangement of the company's **QA focused projects**
 - Manual & exploratory testing for web and mobile applications  
 - Writing clear, structured **test cases, test plans, and bug reports**  
 - Building a strong **QA portfolio** for remote opportunities  
@@ -11,7 +12,8 @@ I’m a **Manual & Exploratory Software Tester** with hands-on experience in **c
 ###  Tools & Skills
 - Manual Testing · Exploratory Testing · Regression Testing  
 - Test Case Design · Bug Reporting & Documentation  
-- Jira · Zephyr · Xray  
+- Jira · Zephyr · Xray . TestRail . Azure DevOps (Azure Boards)
+- Salesforce CRM fundamentals . Lightening Experience . Data modeling . validation rules . approval processes . Permission sets . duplicate management . Reports . dashboards . admin level configurations
 - Basics of HTML & CSS  
 - Remote collaboration & communication  
   
@@ -24,7 +26,7 @@ I’m a **Manual & Exploratory Software Tester** with hands-on experience in **c
 - Email: lubnakhanwork@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/lubna-khan-sqa
   
-I’m currently **open to entry-level / junior remote QA roles** and excited to contribute to quality-driven teams.
+I’m currently **open to remote QA & Project Mangement roles** and excited to contribute to quality-driven teams.
 
 <!--
 **LubnaSQA/LubnaSQA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
