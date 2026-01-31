@@ -5,7 +5,7 @@ I’m a **Manual & Exploratory Software Tester** with hands-on experience in **c
 ###  What I’m focusing on
 - Project Mangement of the company's **QA focused projects**
 - Manual & exploratory testing for web and mobile applications  
-- Writing clear, structured **test cases, test plans, and bug reports**  
+- Writing clear, structured **test cases, test plans,** and **bug reports**  
 - Building a strong **QA portfolio** for remote opportunities  
 - Continuously improving my testing skills and tool knowledge  
 
