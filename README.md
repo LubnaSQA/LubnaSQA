@@ -1,6 +1,6 @@
 ## Hi, I’m Lubna Khan!
 
-I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting and real-world QA workflows**. I currently work as a **QA Project Cordinator** at **Fusion Systems and Services Inc. remotely**. Also, I am a **remote freelance tester** at **Test IO** for **more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
+I’m a **Manual & Exploratory Software Tester** with hands-on experience in **crowdtesting** and **real-world QA workflows**. I currently work as a **QA Project Cordinator** at **Fusion Systems and Services Inc. remotely**. Also, I am a **remote freelance tester** at **Test IO** for **more than 1 year**, where I focus on identifying usability issues, functional defects, and edge cases across web and cross-platform applications.
 
 ###  What I’m focusing on
 - Project Mangement of the company's **QA focused projects**
